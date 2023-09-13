@@ -1,0 +1,35 @@
+[
+  {
+    "id": 1,
+    "name": "Basic Plan",
+    "price": 1999,
+    "features": [
+      "10GB Storage",
+      "Unlimited Bandwidth",
+      "Basic Analytics",
+      "Email Support"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Standard Plan",
+    "price": 3999,
+    "features": [
+      "25GB Storage",
+      "Unlimited Bandwidth",
+      "Advanced Analytics",
+      "Priority Email Support"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Business Plan",
+    "price": 9999,
+    "features": [
+      "100GB Storage",
+      "Unlimited Bandwidth",
+      "Customizable Analytics",
+      "24/7 Phone Support"
+    ]
+  }
+]

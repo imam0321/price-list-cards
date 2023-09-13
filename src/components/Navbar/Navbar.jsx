@@ -25,7 +25,7 @@ const Navbar = () => {
         </span>
        </div>
 
-      <ul className={`md:flex md:static absolute duration-700 bg-red-400 md:py-6 md:px-12 pl-11 py-5 ${open ? 'top-10' : '-top-48'}`}>
+      <ul className={`md:flex md:static absolute duration-700 bg-red-400 md:py-4 md:px-12 pl-11 py-6 ${open ? 'top-10' : '-top-48'}`}>
       {
         routers.map(route => <Link 
           key={route.id}
